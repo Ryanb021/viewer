@@ -6,8 +6,8 @@ import { Videos, ChannelCard } from './';
 import { fetchFromAPI } from '../utils/fetchFromAPI';
 
 const ChannelDetail = () => {
-  const [channelDetail, setChannelDetail] = useState(null)
-  const [videos, setVideos] = useState([])
+  const [channelDetail, setChannelDetail] = useState(null);
+  const [videos, setVideos] = useState([]);
   const { id } = useParams();
 
   console.log(channelDetail, videos)
@@ -32,7 +32,7 @@ const ChannelDetail = () => {
       </Box>
       <Box display="flex" p="2">
         <Box sx={{ mr: { sm: '100px' } }} />
-        <Videos />
+        {/* <Videos videos={videos} /> */}
       </Box>
     </Box>
   )
