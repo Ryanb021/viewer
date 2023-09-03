@@ -11,7 +11,6 @@ const Videos = ({ videos }) => {
           {item.id.channelId && <ChannelCard channelDetail={item} />}
         </Box>
       ))}
-
     </Stack>
   )
 }
