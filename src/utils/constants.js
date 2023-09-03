@@ -12,7 +12,8 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
-export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
+// export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
+export const logo = 'https://image.similarpng.com/very-thumbnail/2021/06/Eye-care-logo-on-transparent-background-PNG.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
