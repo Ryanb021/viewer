@@ -25,5 +25,5 @@ Enjoy a seamless video-watching experience with Viewer. Our platform supports hi
 - In progress.
 
 ### Snapshot
+![Viewer](https://github.com/Ryanb021/viewer/assets/120413183/f67853f2-7a30-481c-897d-21748af35adb)
 
-- In progress.
