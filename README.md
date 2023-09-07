@@ -1,5 +1,9 @@
 # Viewer (Youtube Clone)
 
+### Deployed Link
+
+- https://the-viewer.netlify.app/
+
 ## About Viewer: Explore, Watch, and Connect
 
 - Welcome to Viewer, your ultimate destination for discovering, watching, and connecting through captivating videos and channels. Viewer is a feature-rich YouTube clone designed to empower you to explore the vast world of online video content seamlessly.
@@ -19,10 +23,6 @@
 ### Join Viewer Today:
 
 - Viewer is more than just a YouTube clone; it's a hub for exploration, entertainment, and connection. Whether you're a viewer seeking exciting content or a creator ready to share your vision, Viewer is the place to be. Join our community today and embark on a journey of discovery, creativity, and endless entertainment. Explore the world of Viewer and be part of something extraordinary!
-
-### Deployed Link
-
-- https://the-viewer.netlify.app/
 
 ### Snapshot
 ![Viewer1](https://github.com/Ryanb021/viewer/assets/120413183/15a14b11-eb6a-40ee-923d-bf92bdd99393)
