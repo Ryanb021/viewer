@@ -10,7 +10,7 @@
 
 ### Watch Your Way
 
-Enjoy a seamless video-watching experience with Viewer. Our platform supports high-definition streaming, allowing you to savor every detail of your favorite content. From short clips to feature-length documentaries, you can watch videos of any length with ease.
+- Enjoy a seamless video-watching experience with Viewer. Our platform supports high-definition streaming, allowing you to savor every detail of your favorite content. From short clips to feature-length documentaries, you can watch videos of any length with ease.
 
 ### Search and Explore
 
